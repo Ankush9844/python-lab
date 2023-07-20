@@ -1,3 +1,5 @@
+# Hello, My name is Ankush. And this repo is only for demo purpose, I just made the calculator app only fo rdummy purpose
+
 def addition(First_no, Second_no):
     return(First_no + Second_no)
 def subtraction(First_no, Second_no):
