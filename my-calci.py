@@ -1,3 +1,5 @@
+# Hello my Name is Ankush and I made this calculator for my first project in python using git and github
+
 def addition(First_no, Second_no):
     return(First_no + Second_no)
 def subtraction(First_no, Second_no):
