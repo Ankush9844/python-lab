@@ -9,7 +9,8 @@ def division(First_no, Second_no):
 def multiplication(First_no, Second_no):
     return(First_no * Second_no)
 
-select = input("1, 2, 3, 4 : ")
+select = input(" Take 1 for addition \
+               Take 2 for subtraction, 3, 4 : ")
 
 x = int(input("enter value of x : "))
 y = int(input("enter value of y : "))
