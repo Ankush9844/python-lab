@@ -1,0 +1,48 @@
+git init
+- this command Initialized the git repo(folder)
+
+git add <file name>
+- this will add the file on the staging environment
+
+git commit -m "<your commit message>"
+- this will commit all the file changes. and used to track the staged file
+
+git branch
+- gives the list of all branches
+
+git checkout -b <branch name> |  git checkout <branch name>
+- used to switched the branch
+
+git restore --staged <file>
+- used to untrack/unstaged the staged file.
+
+git clone <url>
+- whenever you want to clone the repo, make directory and don't run the git init command
+
+git push/pull origin main
+git push/pull <remote> <branch>
+
+- after clone you should use push/pull command, not clone again and again
+
+git merge <branch>
+- M1
+- F1
+- M2
+- M3
+- F2
+- M4
+- F3
+
+these above are commits from main(M) and feature(F) branch. As you can see above, the commits are scattered.
+
+git rebase <branch>
+- M1
+- M2
+- M3
+- F1
+- F2
+- F3
+
+As you can see above, all the commits are sequence wise. Linear commit history. Never do rebase on public branch(multi user code push)
+
+git remote set-url origin https://<generated token>@github.com/<user-name>/<repositiory>.git
