@@ -23,10 +23,10 @@ def multiply(number1, number2):
 def divide(number1, number2): 
     return (number1 / number2)
   
-print("Operation Menu -\n" \ 
-        "1. Addition of two numbers\n" \ 
-        "2. Subtraction of two numbers\n" \ 
-        "3. Multiplication of two numbers\n" \ 
+print("Operation Menu -\n" 
+        "1. Addition of two numbers\n"  
+        "2. Subtraction of two numbers\n"  
+        "3. Multiplication of two numbers\n" 
         "4. Division of two numbers\n") 
   
   
@@ -52,4 +52,4 @@ elif select == '4':
     print(num1, "/", num2, "=", 
                     divide(num1, num2)) 
 else: 
-    print("Invalid input!"
+    print("Invalid input!")
