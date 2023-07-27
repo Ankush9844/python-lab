@@ -33,7 +33,8 @@ git merge <branch>
 - M4
 - F3
 
-these above are commits from main(M) and feature(F) branch. As you can see above, the commits are scattered.
+these above are commits from main(M) and feature(F) branch. 
+As you can see above, the commits are scattered.
 
 git rebase <branch>
 - M1
@@ -43,6 +44,7 @@ git rebase <branch>
 - F2
 - F3
 
-As you can see above, all the commits are sequence wise. Linear commit history. Never do rebase on public branch(multi user code push)
+As you can see above, all the commits are sequence wise. 
+Linear commit history. Never do rebase on public branch(multi user code push)
 
 git remote set-url origin https://<generated token>@github.com/<user-name>/<repositiory>.git
