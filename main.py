@@ -21,25 +21,30 @@
 
 # my_time = time.strftime("%H-%M-%S")
 
-def average(*numbers):
-    print(type(numbers))
+# def average(*numbers):
+#     print(type(numbers))
     
-    x = 0
+#     x = 0
 
-    for i in numbers:
-        x = x + i 
+#     for i in numbers:
+#         x = x + i 
 
-    return x / len(numbers)
+#     return x / len(numbers)
 
-print(average(1, 2, 3, 4))
+# print(average(1, 2, 3, 4))
 
 
-try:
-    a = int(input("enter no: "))
-    for i in range(0, 10):
-        print (int(a*i))
+# try:
+#     a = int(input("enter no: "))
+#     for i in range(0, 10):
+#         print (int(a*i))
 
-except Exception as e:
-    print(e)
+# except Exception as e:ls
 
-print("Hello")
+#     print(e)
+
+# print("Hello")
+
+import ankush
+
+ankush.wel()
