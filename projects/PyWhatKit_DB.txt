@@ -1,0 +1,30 @@
+Date: 31/7/2023
+Time: 23:10
+Phone Number: +918421850915
+Message: Welcome to Goa
+--------------------
+Date: 31/7/2023
+Time: 23:13
+Phone Number: +918421850915
+Message: Welcome to Goa
+--------------------
+Date: 31/7/2023
+Time: 23:17
+Phone Number: +919503713098
+Message: This is only generated Message by Python WhatsappAPI for testing the Auto-message feature of New-Ankush-Whatsapp-Web-App. Thank You!
+--------------------
+Date: 31/7/2023
+Time: 23:19
+Phone Number: +919503713098
+Message: This is only generated Message by Python WhatsappAPI for testing the Auto-message feature of New-Ankush-Whatsapp-Web-App. Thank You!
+--------------------
+Date: 31/7/2023
+Time: 23:20
+Phone Number: +919503713098
+Message: This is only generated Message by Python WhatsappAPI for testing the Auto-message feature of New-Ankush-Whatsapp-Web-App. Thank You!
+--------------------
+Date: 31/7/2023
+Time: 23:21
+Phone Number: +919503713098
+Message: This is only generated Message by Python WhatsappAPI for testing the Auto-message feature of New-Ankush-Whatsapp-Web-App. Thank You!
+--------------------
